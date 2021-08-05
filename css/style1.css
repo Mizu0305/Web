@@ -1,0 +1,428 @@
+#cpu{
+    margin-top: 7px;
+    margin-left: 5px;
+    width: 14%;
+}
+#cpu1{
+    float: right;
+    margin-right: 48px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#laptop{
+    margin-top: 11px;
+    margin-left: 5px;
+    width: 15%; 
+}
+#lp1{
+    float: right;
+    margin-right: 90px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#pc{
+    margin-top: 6px;
+    margin-left: 4px;
+    width: 15%;
+}
+#pc1{
+    float: right;
+    margin-right: 60px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#mac{
+    width: 15%;
+    margin-top: 11px;
+    margin-left: 4px;
+}
+#mac1{
+    float: right;
+    margin-right: 107px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#PC{
+    margin-top: 6px;
+    margin-left: 4px;
+    width: 15%;
+}
+#PC1{
+    float: right;
+    margin-right: 40px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#mh{
+    width: 15%;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+#mh1{
+    float: right;
+    margin-right:75px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#bp{
+    width: 15%;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+#bp1{
+    float: right;
+    margin-right: 78px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#C{
+    width: 15%;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+#C1{
+    float: right;
+    margin-right: 3px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#tn{
+    width: 15%;
+    margin-left: 4px;
+    margin-top: 6px;
+}
+#tn1{
+    float: right;
+    margin-right: 85px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#gh{
+    width: 15%;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+#gh1{
+    float: right;
+    margin-right: 57px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#ps{
+    width: 15%;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+#ps1{
+    float: right;
+    margin-right: 95px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#loa{
+    width: 15%;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+#loa1{
+    float: right;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#kn{
+    width: 15%;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+#kn1{
+    float: right;
+    margin-right: 87px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#page1{
+    float: left;
+    width: 950px;
+    height: 590px;
+    margin-top: 2px;
+}
+#page2{
+    float: left;
+    width: 465px;
+    height: 190px;
+    margin-top: 2px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#page3{
+    float: left;
+    width: 465px;
+    height: 190px;
+    margin-top: 2px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+#page6{
+    float: left;
+    width: 465px;
+    height: 190px;
+    margin-top: 2px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#page5{
+    float: left;
+    margin-top: 2px;
+    width: 470px;
+    height: 180px;
+}
+#page4{
+    float: left;
+    margin-left: 15px;
+    margin-top: 2px;
+    width: 452px;
+    height: 180px;
+}
+#page7{
+    float: left;
+    width: 465px;
+    height: 180px;
+    margin-left: 8px;
+    margin-top:2px;
+}
+#b1{
+    float: left;
+    width: 400px;
+    height: 150px;
+    margin-left: 98px;
+    margin-top: 5px;
+}
+#b2{
+    float: left;
+    width: 400px;
+    height: 150px;
+    margin-top: 5px;
+    margin-left: 12px;
+}
+#b3{
+    float: left;
+    width: 400px;
+    height: 150px;
+    margin-left: 12px;
+    margin-top: 5px;
+}
+#b4{
+    float: left;
+    width: 400px;
+    height: 150px;
+    margin-left: 12px;
+    margin-top: 5px;
+}
+#visa{
+    width: 100px;
+    float: left;
+    margin-left: 25px;
+}
+#mt{
+    width: 100px;
+    float: left;
+    margin-left: 25px;
+}
+#momo{
+    float: left;
+    width:100px;
+    margin-left: 25px;
+}
+#cash {
+    width: 150px;
+    float: right;
+    margin-right: 200px;
+    margin-top: -50px;
+}
+#bk{
+    width:150px;
+    float: right;
+    margin-top: -135px;
+    margin-right: 80px;
+}
+#rigt12{
+    width: 80%;
+    display: inline-block;
+}
+.rightleft{
+    width: 40%;
+    float: left;
+}
+#ps5{
+    width: auto;
+}
+#pS5{
+    font-size: 30px;
+    font-weight: bold;
+}
+#tesa{
+    font-size: 35px;
+    font-weight: bold;
+    color: red;
+}
+.bta{
+    width: 200px;
+    height: 40px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 10px;
+    background-color: rgb(1, 133, 248);
+}
+.bta:hover{
+    color: red;
+}
+#btas{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+#alal{
+    float: left;
+    width: 700px;
+    margin-left: 5px;
+    margin-top: 15px;
+    font-size: 25px;
+}
+.bodya{
+    float: left;
+    width: auto;
+}
+#l1{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+#vb{
+    width: 1654px;
+    font-weight: bold;
+    font-size:20px;
+    margin-left: 98px;
+}
+#vb1{
+    height: 470px;
+    width: 1654px;
+    font-weight: bold;
+    font-size:20px;
+    
+}
+#texas ul {
+    margin-top: 50px;
+    width: 600px;
+    margin-left: 700px;
+}
+#vc1{
+    margin-top: 80px;
+    width: 1645px;
+    height: 470px;
+}
+#vc1 ul {
+    float: left;
+    margin-left: 600px;
+    height: 130px;
+    width: 400px;
+}
+#vc1 ul li{
+    font-size: 16px;
+    font-weight: bold;
+}
+#colas{
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(241, 49, 49);
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+#ten{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+#vb2{
+    
+    width: 80%;
+    margin-left: 98px;
+    font-weight: bold;
+    font-size: 20px;
+}
+#lalala{
+    margin-left: 98px;
+}
+#tt{
+    width: 90%;
+    margin-left: 50px;
+    
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+#ten1{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+#hr{
+    width: 1645px;
+    float: left;
+    margin-left: 98px;
+}
+#table-cup{
+    display: grid;
+    float: left;
+    overflow: hidden;
+    margin-left: 98px;
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    grid-template-columns: 400px 380px 400px 380px ;
+    grid-auto-rows: 255px 255px 255px 255px ;
+    grid-gap: 30px;
+}
+#table-image{
+    border-radius: 10px;
+    
+    width: 100%;
+}
+#teast{
+    font-size: 15px;
+    font-weight: bold;
+}
+#tint{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#tintuc{
+    display: grid;
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 198px;
+    grid-template-columns: 300px 600px ;
+    grid-template-rows: 210px 210px;
+    clear: both;
+}
+#tintuc-image{
+    width: 100%;
+}
+#tintuc-text{
+    margin-left: 5px;
+}
+#tintuc-text a{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,110 @@
+#menu ul li{
+    width: 250px;
+    position: relative;
+}
+#menu .sub-menu{
+    position: absolute;
+    left: 200px;
+    top: 0;
+    display: none;
+}
+#menu ul li:hover .sub-menu{
+    display: block;
+}
+.menu ul{
+    margin-left: -1px;
+}
+.menu ul li{
+    position: relative;
+}
+.menu ul li a{
+    display: block;
+}
+.menu ul li a:hover{
+    background-color: bisque;
+    color: black;
+}
+.menu ul li > #menu{
+    display: none;
+    position: absolute;
+}
+.menu ul li:hover >#menu{
+    display: block;
+}
+.body1{
+    float: left;
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+#texxt{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 320px;
+    width: auto;
+}
+#table2{
+    float: left;
+    display: block;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 1px solid black;
+    width: 250px;
+    height: 350px;
+    border-radius: 10px;
+}
+#text2{
+    margin-left: 320px;
+    width: 420px;
+}
+#aa{
+    color: black;
+    font-weight: bold;
+}
+#tab{
+    margin-left: 250px;
+}
+.bodya{
+    width: 100%;
+    float: left;
+}
+.login-form{
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 15px;
+    border: 2px dotted #cccccc;
+    border-radius: 10px;
+    margin-bottom: 200px;
+}
+h1{
+    color: #009999;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.input-box input{
+    padding: 7.5px 15px;
+    width: 400px;
+    height:20px;
+    margin-top: 5px;
+    border: 1px solid #cccccc;
+    outline: none;
+}
+.btn-box{
+    text-align: right;
+    margin-top: 30px;
+}
+.btn-box button{
+    padding: 7.5px 15px;
+    border-radius: 2px;
+    background-color: #009999;
+    color: #ffffff;
+    border: none;
+    outline: none;
+}
+.btn-box button a{
+    color: white;
+    border: none;
+}
